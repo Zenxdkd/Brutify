@@ -1,2 +1,2 @@
-# Brutify
+# Install
 Ananan
