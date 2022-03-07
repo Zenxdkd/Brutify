@@ -188,7 +188,7 @@ Right now I'm TRYING to learn ML, AIs and Neural Networks in Python🧠
     elif var == 6:
         if  os.path.exists("/usr/share/wordlists/rockyou.txt")==True:
             print("\nEnter the path of the handshake file ?")
-            path = str(input(""))
+            path = str(input("")
             order = "aircrack-ng {} -w /usr/share/wordlists/rockyou.txt".format(path)
             print("\nTo exit Press CTRL +C")
             geny  = os.system(order)
